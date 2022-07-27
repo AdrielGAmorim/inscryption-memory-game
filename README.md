@@ -19,7 +19,7 @@ Project created using HTML, CSS and some JavaScript with a theme of the card gam
 
 ## Links
 
-- Live Site URL: [Inscryption Memory Game](adrielgamorim.github.io/inscryption-memory-game/)
+- Live Site URL: [Inscryption Memory Game](http://adrielgamorim.github.io/inscryption-memory-game/)
 
 
 
