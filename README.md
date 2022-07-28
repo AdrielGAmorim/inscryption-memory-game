@@ -26,3 +26,4 @@ Project created using HTML, CSS and some JavaScript with a theme of the card gam
 ## Author
 
 - Website - [Adriel Amorim](https://adrielgamorim.github.io/Portfolio/)
+- LinkedIn - [Adriel Amorim](https://www.linkedin.com/in/adrielamorim/)
